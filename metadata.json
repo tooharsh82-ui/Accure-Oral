@@ -1,0 +1,6 @@
+{
+  "name": "Accure Oral And Dental Clinic",
+  "description": "Clean, reliable dental care in Shivganj, Arrah by Dr. Saurabh Vishwakarma. Services include cleanings, fillings, root canals, braces, and general consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
